@@ -1,5 +1,5 @@
 
-# The Subtle Art of Adding Code Comments in Javascript
+# The Subtle Art of JavaScript Commenting
 
 ![Heart made of 0s and 1s](https://images.unsplash.com/photo-1569396116180-210c182bedb8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80)
 
