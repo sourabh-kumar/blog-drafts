@@ -72,7 +72,7 @@ function factorialWithCallback(n, callback) {
 ```
 
 Do not worry if it is unclear what the code accomplishes. The next sections will provide an explanation.
-## Commonly used JS Doc Tags
+
 ## Commonly used JS Doc Tags
 **`@description`**
 
